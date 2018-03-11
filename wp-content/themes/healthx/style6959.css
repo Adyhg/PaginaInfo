@@ -1,0 +1,175 @@
+/*
+Theme Name: Healthx
+Theme URI: http://themeforest.net/user/klbtheme/portfolio
+Author: KlbTheme (Omur OLGUNAY)
+Author URI: http://themeforest.net/user/KlbTheme
+Domain Path: /languages
+Description: This WordPress theme is best for use in such business areas as corporate, many types of agencies and bureaus, portfolio showcases, landscape, building, health, planning, construction, design
+Version: 1.2
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
+Text Domain: healthx
+
+Theme Developer:
+http://themeforest.net/user/KlbTheme
+https://www.facebook.com/omur.olgunay.1
+Skype:omurolgunay
+*/
+
+	/*- - - - - Contents - - - - -
+	
+	01 - Visual Composer
+	02 - Revolution Slider
+	03 - Blog
+	04 - Button Style
+	05 - Contact Form
+	
+	- - - - - - - - - - - - - -*/
+
+
+/*************************************************
+* Visual Composer
+*************************************************/
+
+.vc_column-inner{
+	padding-top:0!important;
+}
+/*************************************************
+* Revolution Slider
+*************************************************/
+
+.tp-caption {
+	white-space: normal !important;
+}
+.tparrows {
+	border:1px solid #fff;
+	transition: .25s;
+}
+.tp-bullet {
+    width: 30px;
+    height: 4px;
+    border-radius: 4px;
+    background: #207FDC;
+}
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li {
+    margin-bottom: 0 !important;
+}
+
+
+.welcome-area, .welcome-slider-area, .welcome-slider-area div {
+    height:auto !important;
+}
+.healthx{
+	color: #207FDC;
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 3px;
+    margin: 0px 5px;
+    font-weight: 700;
+}
+/*************************************************
+* Blog
+*************************************************/
+.blog-header{
+	background:#12212f;
+}
+.menu-bg {
+    background: #fff;
+}
+.sidebar .blog-item input#s{
+    height: 34px;
+	color:#000;
+	padding: 6px;
+}
+.blog img{
+    width: inherit;
+}
+.single img{
+    width: inherit;
+}
+/*************************************************
+* Button Style
+*************************************************/
+a.kulebe{
+    font-weight: 600;
+}
+
+/*************************************************
+* Contact Form
+*************************************************/
+.wpcf7-form label{
+	width:100%;
+}
+form.wpcf7-form {
+    text-align: center;
+}
+.appoinment-form{
+	border:0 !important;
+	padding:0 !important;
+}
+
+textarea.wpcf7-form-control.wpcf7-textarea.form-control {
+    height: 92px;
+}
+.klb-appoint .form-control:focus {
+    color: #207FDC;
+}
+
+.klb-contact p:last-child{
+	text-align:center;
+}
+.klb-contact .wpcf7-submit{
+	width:inherit;
+}
+.klb-contact textarea.wpcf7-form-control.wpcf7-textarea.form-control {
+    height: 158px;
+}
+div.wpcf7-validation-errors {
+    background: #f7e700;
+}
+
+.logo {
+    padding: 15px 0;
+}
+
+.logo a p {
+    margin-bottom: 0;
+}
+
+.mainmenu .navbar-nav li {
+    margin-right: 25px;
+}
+
+.klb-post img {
+    width: initial;
+}
+
+a {
+    color: #207FDC;
+}
+
+a:hover {
+    color: #242424;
+}
+
+.dropdown-menu {
+    background-color: #12212f;
+}
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color: #12212f;
+}
+
+.mainmenu ul.dropdown-menu li {
+    margin-right: 0;
+}
+.mainmenu ul.dropdown-menu li a{
+	padding: 16px 15px !important;
+}
+
+@media screen and (max-width: 769px) {
+	.mainmenu .navbar-nav li {
+	    margin-right: 20px;
+	}
+}

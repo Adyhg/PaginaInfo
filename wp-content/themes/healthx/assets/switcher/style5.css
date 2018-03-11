@@ -1,0 +1,71 @@
+#style-switcher h2 a {
+    background: #3EB8D7 none repeat scroll 0 0
+}
+body #booked-profile-page input[type=submit].button-primary:hover, body .booked-list-view button.button:hover, body .booked-list-view input[type=submit].button-primary:hover, body table.booked-calendar input[type=submit].button-primary:hover, body .booked-modal input[type=submit].button-primary:hover, body table.booked-calendar thead, body table.booked-calendar thead th, body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover, body #booked-profile-page .booked-profile-header, body #booked-profile-page .booked-tabs li.active a, body #booked-profile-page .booked-tabs li.active a:hover, body #booked-profile-page .appt-block .google-cal-button > a:hover {
+    background: #3EB8D7 !important;
+    border-color: #3EB8D7 !important;
+}
+.klb_207fdc{
+	background:#3EB8D7!important;
+	border-color:#3EB8D7!important;
+}
+.blog-item h1:after {
+	border-color:#3EB8D7!important;
+}
+.blog-item ul li:before {
+    color: #3EB8D7!important;
+}
+.logo a p {
+    border: 2px solid #3EB8D7;
+}
+.vc_custom_1488752382582,
+.dot1 {
+    background-color: #3EB8D7!important;
+}
+.mainmenu ul.nav.navbar-nav li.active::before,
+.section-title h2::before,
+.team-description,
+.pricing-header,
+.contact-details-area,
+.scrollup, a.slide-btn.other-btn:hover, .owl-theme .owl-controls .owl-page span, .carousel-indicators li {
+    background: #3EB8D7;
+}
+.vc_custom_1487716628343 h3,
+.header-text p span,
+.about-text h2,
+.single-service.single-service:hover h4,
+.about-icon i,
+.single-about.single-about:hover h4,
+.single-project-complete i,
+.appoinment-text h2,
+.appoinment-form h3,
+.testi-name h2,
+.footer-social-link ul li a:hover,
+.preloader i, .single-team p i, .slider-control{
+    color: #3EB8D7!important;
+}
+
+a.slide-btn {
+    border: 1px solid #3EB8D7;
+    background: #3EB8D7;
+}
+
+.single-service i,
+.call-to-area-text a,
+.appoinment-form input[type="submit"],
+a.price-more,
+.contact-form input[type="submit"] {
+    background: #3EB8D7;
+    border: 1px solid #3EB8D7;
+}
+
+a.slide-btn:hover, .call-to-area-text a:hover, .appoinment-form input[type="submit"]:hover, a.price-more:hover, .contact-form input[type="submit"]:hover{
+	border: 1px solid #3EB8D7;
+}
+.single-service.single-service:hover i {
+	color: #3EB8D7;
+	border: 1px solid #3EB8D7;
+}
+.form-control:focus {
+	border-color: #3EB8D7;
+}
